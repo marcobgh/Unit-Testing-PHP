@@ -2,8 +2,6 @@
 
 Este repositório contém uma coleção de funções utilitárias escritas em **PHP**, acompanhadas por testes unitários utilizando o **PHPUnit**. O objetivo é demonstrar a escrita de testes, boas práticas e validação de entradas.
 
----
-
 ## 📂 Estrutura do Projeto
 ---
 ```
@@ -16,7 +14,6 @@ pasta/
 ├── composer.json # Configuração do projeto  
 &nbsp; &nbsp; &nbsp;└── README.md # Documentação do repositório
 ```
----
 
 ## 🚀 Instalação
 
