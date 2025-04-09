@@ -1,9 +1,8 @@
-# 🧪 Funções Utilitárias com Testes PHPUnit
+# 🖥️ Funções Utilitárias com Testes PHPUnit
 
 Este repositório contém uma coleção de funções utilitárias escritas em **PHP**, acompanhadas por testes unitários utilizando o **PHPUnit**. O objetivo é demonstrar a escrita de testes, boas práticas e validação de entradas.
 
 ## 📂 Estrutura do Projeto
----
 ```
 pasta/  
 ├── src/  
