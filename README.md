@@ -33,15 +33,11 @@ composer install
 ---
 
 ## 🧪 Executando os Testes
-bash
-Copiar
-Editar
+
 ./vendor/bin/phpunit tests
 
 ### ✅ Resultado Esperado:
-vbnet
-Copiar
-Editar
+
 PHPUnit 12.1.2 by Sebastian Bergmann and contributors.
 
 ..........                                                        10 / 10 (100%)
