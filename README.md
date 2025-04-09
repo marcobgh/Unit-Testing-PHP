@@ -27,11 +27,12 @@ cd nome-do-repositorio
 composer install
 
 ---
-
+```
 ## 🧪 Executando os Testes
 
 ./vendor/bin/phpunit tests
-
+```
+```
 ### ✅ Resultado Esperado:
 
 PHPUnit 12.1.2 by Sebastian Bergmann and contributors.
@@ -41,6 +42,7 @@ PHPUnit 12.1.2 by Sebastian Bergmann and contributors.
 Time: 00:00.022, Memory: 8.00 MB
 
 OK (10 tests, 10 assertions)
+```
 
 ## 📋 Cobertura de Testes
 As funções abaixo foram testadas com entradas válidas e inválidas (quando aplicável), garantindo robustez e comportamento esperado.
