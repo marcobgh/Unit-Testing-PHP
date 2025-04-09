@@ -4,7 +4,7 @@ Este repositório contém uma coleção de funções utilitárias escritas em **
 
 ## 📂 Estrutura do Projeto
 ```
-pasta/  
+project/  
 ├── src/  
 │   └── Funcoes.php # Arquivo com as funções utilitárias  
 ├── tests/  
