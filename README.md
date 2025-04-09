@@ -15,7 +15,7 @@ pasta/
 ```
 
 ## 🚀 Instalação
-
+```
 > É necessário ter o [PHP](https://www.php.net/downloads.php) e o [Composer](https://getcomposer.org/) instalados.
 
 ## bash
@@ -25,11 +25,11 @@ cd nome-do-repositorio
 
 ### Instale as dependências
 composer install
-
----
 ```
-## 🧪 Executando os Testes
+---
 
+## 🧪 Executando os Testes
+```
 ./vendor/bin/phpunit tests
 ```
 ```
