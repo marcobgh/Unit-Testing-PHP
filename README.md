@@ -15,6 +15,7 @@ pasta/
 ```
 
 ## 🚀 Instalação
+> É necessário ter o [PHP](https://www.php.net/downloads.php) e o [Composer](https://getcomposer.org/) instalados.
 ```
 ## bash
 ### Clone o repositório
