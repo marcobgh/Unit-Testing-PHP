@@ -5,7 +5,8 @@ Este repositório contém uma coleção de funções utilitárias escritas em **
 ---
 
 ## 📂 Estrutura do Projeto
-
+---
+```
 pasta/  
 ├── src/  
 │   └── Funcoes.php # Arquivo com as funções utilitárias  
@@ -14,7 +15,7 @@ pasta/
 ├── vendor/ # Dependências do Composer (PHPUnit)  
 ├── composer.json # Configuração do projeto  
 &nbsp; &nbsp; &nbsp;└── README.md # Documentação do repositório
-
+```
 ---
 
 ## 🚀 Instalação
