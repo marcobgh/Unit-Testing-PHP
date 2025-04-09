@@ -62,5 +62,5 @@ As funções abaixo foram testadas com entradas válidas e inválidas (quando ap
 | `calculateDiscount`   | Preço 200 com 10% de desconto           | `180`              | ✅     |
 | `calculateDiscount`   | Percentual negativo                     | Exceção            | ✅     |
 
-### 👨‍💻 Autor
-Marco Antonio Borghetti e Luiz Gustavo da Silva Przygoda
+### 👨‍💻 Autores
+Marco Antonio Borghetti e Luiz Gustavo Przygoda
