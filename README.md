@@ -16,8 +16,6 @@ pasta/
 
 ## 🚀 Instalação
 ```
-> É necessário ter o [PHP](https://www.php.net/downloads.php) e o [Composer](https://getcomposer.org/) instalados.
-
 ## bash
 ### Clone o repositório
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
@@ -32,9 +30,8 @@ composer install
 ```
 ./vendor/bin/phpunit tests
 ```
+## ✅ Resultado Esperado:
 ```
-### ✅ Resultado Esperado:
-
 PHPUnit 12.1.2 by Sebastian Bergmann and contributors.
 
 ..........                                                        10 / 10 (100%)
