@@ -8,13 +8,12 @@ Este repositório contém uma coleção de funções utilitárias escritas em **
 
 pasta/  
 ├── src/  
-│  
-└── Funcoes.php # Arquivo com as funções utilitárias  
+│   └── Funcoes.php # Arquivo com as funções utilitárias  
 ├── tests/  
-│ └── FuncoesTest.php # Testes unitários usando PHPUnit  
+│   └── FuncoesTest.php # Testes unitários usando PHPUnit  
 ├── vendor/ # Dependências do Composer (PHPUnit)  
 ├── composer.json # Configuração do projeto  
-&nbsp;└── README.md # Documentação do repositório
+&nbsp; &nbsp; &nbsp;└── README.md # Documentação do repositório
 
 ---
 
